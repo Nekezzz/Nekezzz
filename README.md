@@ -2,13 +2,13 @@
 <h3 align="center">A passionate backend developer from Chile</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I am a computer programmer analyst graduated from Duoc uc. [.](.)
+- 🔭 I am a computer programmer analyst graduated from Duoc uc. 
 
 - 💬 Visit my LinkedIn profile to learn more about my skills and interests: **http://www.linkedin.com/in/axel-montecinos-cheuquian-39888a222**
 
-- 🌱 I am looking to grow as a programmer by studying various languages. [.](.)
+- 🌱 I am looking to grow as a programmer by studying various languages.
 
-- ⚡ I am quite persevering and persistent in my goals. [.](.)
+- ⚡ I am quite persevering and persistent in my goals.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
